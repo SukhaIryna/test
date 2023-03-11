@@ -1,4 +1,4 @@
 const test = "test";
 alert ("Hello word!")
-const Net = "u
+const Net = "url"
 <div id="notify - container><div>
